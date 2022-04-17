@@ -10,4 +10,10 @@ I had extracted reviews on luggage items as a dataframe and transformed it into 
 
 ![](/Resources/customers_table.png)
 
+![](/Resources/products_table.png)
+
+![](/Resources/review_id_table.png)
+
+![](/Resources/vine_table.png)
+
 
