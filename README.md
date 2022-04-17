@@ -35,13 +35,14 @@ Based on the images above, following are the results of the analysis.
   
 * <b>How many Vine reviews were 5 stars?  How many non-Vine reviews were 5 stars?</b>  
  
-  The Vine reviews included 10 5 star reviews and the non-Vine included 3,448 5 star reviews.
+  The Vine reviews included 10 five star reviews and the non-Vine included 3,448 five star reviews.
   
 * <b>What percentage of Vine reviews were 5 stars?  What percentage of non-Vine reviews were 5 stars?</b>  
 
   47.62% of the Vine reviews were 5 star and 51.54% of the non-Vine reviews were 5 stars.
 
 ## <b>Summary</b>
+Based on the analysis, it is not showing any bias due to the 47.62% of the reviews from the Vine Program are five star and similarily, 51.54% of the reviews from non-Vine reviews were five star.  To support this statment, I would recommend lowering the threshold to 10 or more total votes instead of 20 to get more data due to the low amount of reviews provided by the Vine program.
 
 
 
