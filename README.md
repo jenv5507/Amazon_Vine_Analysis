@@ -32,13 +32,13 @@ This second image is showing the reviews by those that are not members of the Vi
 Based on the images above, following are the results of the analysis.
 * How many Vine reviews and non-Vine reviews were there?  
 
-There were 21 Vine reviews and 6,690 non-Vine reviews.
+  There were 21 Vine reviews and 6,690 non-Vine reviews.
 * How many Vine reviews were 5 stars?  How many non-Vine reviews were 5 stars?  
  
-The Vine reviews included 10 5 star reviews and the non-Vine included 6,690 5 star reviews.
+  The Vine reviews included 10 5 star reviews and the non-Vine included 6,690 5 star reviews.
 * What percentage of Vine reviews were 5 stars?  What percentage of non-Vine reviews were 5 stars?  
 
-47.62% of the Vine reviews were 5 star and 51.54% of the non-Vine reviews were 5 stars.
+  47.62% of the Vine reviews were 5 star and 51.54% of the non-Vine reviews were 5 stars.
 
 
 
