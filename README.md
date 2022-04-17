@@ -22,6 +22,8 @@ Using PySpark, I created two data frames showing the review id's, star rating, h
 
 This first image is showing the paid reviews.  There were only 21 reviews that met the qualifications mentioned above.  Out of the 21, 10 of the reviews were 5 star which is 47.62% of the total reviews.
 
+![](/Resources/program.png)
+
 
 
 
