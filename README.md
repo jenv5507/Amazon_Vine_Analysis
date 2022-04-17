@@ -18,6 +18,7 @@ I had extracted reviews on luggage items as a dataframe and transformed it into 
 
 
 <b>Deliverable 2</b>
+
 Using PySpark, I created two data frames showing the review id's, star rating, helpful votes, total votes, whether or not it was a verified purchases.  It was then filtered by including total votes that were over 20 and then filtered by only including where helpful votes were great than or equal to 50% of the total votes.  The two dataframes were then filtered by those that are part of the Vine program and one was filtered by those that are not part of the Vine program.  
 
 This first image is showing the paid reviews.  There were only 21 reviews that met the qualifications mentioned above.  Out of the 21, 10 of the reviews were 5 star which is 47.62% of the total reviews.
