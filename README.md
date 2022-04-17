@@ -27,7 +27,6 @@ This first image is showing the paid reviews.
 This second image is showing the reviews by those that are not members of the Vine program.  
 
 ![](/Resources/non_member.png)
-
 Based on the images above, following are the results of the analysis.
 
 * <b>How many Vine reviews and non-Vine reviews were there?</b>  
